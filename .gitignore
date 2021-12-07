@@ -1,4 +1,8 @@
 # Byte-compiled / optimized / DLL files
+cascading/
+redblue/
+dualhallway/
+
 __pycache__/
 *.py[cod]
 *$py.class
